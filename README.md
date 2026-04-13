@@ -1,2 +1,5 @@
 # portfolio
-Personal portfolio website – AI &amp; software engineering student project
+Personal portfolio website built with HTML, CSS and JavaScript.
+Focus on AI, machine learning and software development.
+
+Part of PG application
